@@ -1,25 +1,6 @@
-.box {
-    padding: 20px 20px 12px 20px;
-    background-color: #d6d6d5;
-    border-radius: 10px;
-    color: #000000;
-}
-
-.box svg {
-    font-size: 30px;
-}
-
-.box .content {
+form {
+    margin: 0 auto;
+    border: 1px solid red;
     display: flex;
-    justify-content: space-between;
-}
-
-.box h3 {
-    margin: 0;
-}
-
-.box .description {
-    margin-top: 10px;
-    display: block;
-    font-weight: 500;
+    justify-content: center;
 }
